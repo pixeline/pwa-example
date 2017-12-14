@@ -7,5 +7,5 @@ This is a working example of a Progressive Web Application, made using a GitHub 
 
 This is a boilerplate for junior developers at [BeCode](http://www.becode.org) and anyone wanting to learn more about PWA.
 
-![](./SOURCES/add-to-homescreen.png)
+![](./SOURCES/add-to-homescreen.jpg)
 

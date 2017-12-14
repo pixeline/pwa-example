@@ -238,6 +238,13 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/README.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0
+		},
 	"\/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -266,15 +273,14 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/SOURCES\/add-to-homescreen.png": {
-		"ft": 32768,
-		"iS": 464083,
+	"\/SOURCES\/add-to-homescreen.jpg": {
+		"ft": 16384,
+		"iS": 30698,
 		"oA": 0,
-		"oAP": "\/SOURCES\/add-to-homescreen.png",
+		"oAP": "\/SOURCES\/add-to-homescreen.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"\/SOURCES\/icons.sketch": {
