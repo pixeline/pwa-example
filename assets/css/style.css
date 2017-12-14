@@ -1,0 +1,20 @@
+body {
+  font-size: 18px;
+  margin: 0;
+  padding: 1rem;
+  background: #a7cfdf;
+  /* Old browsers */
+  /* FF3.6+ */
+  /* Chrome,Safari4+ */
+  /* Chrome10+,Safari5.1+ */
+  /* Opera 11.10+ */
+  /* IE10+ */
+  background: linear-gradient(135deg, #a7cfdf 0%, #23538a 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', endColorstr='#23538a',GradientType=1 );
+  /* IE6-9 fallback on horizontal gradient */ }
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: auto; }
