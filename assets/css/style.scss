@@ -1,27 +1,28 @@
 @import "purecss";
-
 body{
   font-size:18px;
   margin:0;
-  background: #a7cfdf; /* Old browsers */
-  background: -moz-linear-gradient(-45deg,  #a7cfdf 0%, #23538a 100%); /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#a7cfdf), color-stop(100%,#23538a)); /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(-45deg,  #a7cfdf 0%,#23538a 100%); /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(-45deg,  #a7cfdf 0%,#23538a 100%); /* Opera 11.10+ */
-  background: -ms-linear-gradient(-45deg,  #a7cfdf 0%,#23538a 100%); /* IE10+ */
-  background: linear-gradient(135deg,  #a7cfdf 0%,#23538a 100%); /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', endColorstr='#23538a',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  background-color: #a7cfdf;
+}
+.container{
+  background-repeat: no-repeat;
+  background-color: #a7cfdf;
+  background: linear-gradient(135deg,  #a7cfdf 0%,#23538a 100%) no-repeat;
+  height:100vh;
+}
+h1{
+  font-size:18px;
 }
 
-@media screen and (min-width: 1024px) {
 
+@media only screen and (min-width :1024px){
   h1{
-    font-size:545px;
+    font-size:3000%;
     font-family: serif;
     color: darken(pink, 10%);
     letter-spacing:-100px;
     padding:0;
-    line-height:0.1;
+    line-height:0.02;
     span{
       color:white;
     }
