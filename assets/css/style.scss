@@ -1,8 +1,8 @@
+@import "purecss";
+
 body{
   font-size:18px;
   margin:0;
-  padding:1rem;
-
   background: #a7cfdf; /* Old browsers */
   background: -moz-linear-gradient(-45deg,  #a7cfdf 0%, #23538a 100%); /* FF3.6+ */
   background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#a7cfdf), color-stop(100%,#23538a)); /* Chrome,Safari4+ */
@@ -24,8 +24,22 @@ h1{
     color:white;
   }
 }
-img{
-  display:block;
-  max-width:100%;
-  margin:auto;
+
+.heros-zone{
+  position:relative;
+  background: brown url('../img/cat-o.jpg') center center no-repeat;
+  background-size: cover;
+  height:100vh;
+  h2{
+    text-align: center;
+    font-size:120px;
+    color:white;
+    font-weight:lighter;
+    line-height:100vh;
+  }
+  img{
+    display:block;
+    max-width:100%;
+    margin:auto;
+  }
 }

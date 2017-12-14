@@ -9,6 +9,62 @@
 	],
 "creatorBuild": "26148",
 "files": {
+	"\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 3221,
+		"oA": 0,
+		"oAP": "\/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/android-chrome-512x512.png": {
+		"ft": 32768,
+		"iS": 8691,
+		"oA": 0,
+		"oAP": "\/android-chrome-512x512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 3143,
+		"oA": 0,
+		"oAP": "\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/css\/_purecss.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/_purecss.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/css\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/assets\/css\/style.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -22,6 +78,16 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/assets\/img\/cat-o.jpg": {
+		"ft": 16384,
+		"iS": 52437,
+		"oA": 0,
+		"oAP": "\/assets\/img\/cat-o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/cat.jpg": {
 		"ft": 16384,
 		"iS": 3655815,
@@ -32,12 +98,138 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/img\/cat.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/img\/cat.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 676,
+		"oA": 0,
+		"oAP": "\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 1130,
+		"oA": 0,
+		"oAP": "\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/favicon.ico",
+		"oF": 0
+		},
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/index.html",
 		"oF": 0
+		},
+	"\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/mstile-144x144.png": {
+		"ft": 32768,
+		"iS": 3197,
+		"oA": 0,
+		"oAP": "\/mstile-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 2861,
+		"oA": 0,
+		"oAP": "\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/mstile-310x150.png": {
+		"ft": 32768,
+		"iS": 2823,
+		"oA": 0,
+		"oAP": "\/mstile-310x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/mstile-310x310.png": {
+		"ft": 32768,
+		"iS": 5667,
+		"oA": 0,
+		"oAP": "\/mstile-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/mstile-70x70.png": {
+		"ft": 32768,
+		"iS": 2362,
+		"oA": 0,
+		"oAP": "\/mstile-70x70.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/offline.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/offline.html",
+		"oF": 0
+		},
+	"\/pawpaw.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/pawpaw.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/README.md": {
 		"cB": 0,
@@ -56,6 +248,43 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/SOURCES\/icons.sketch": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/SOURCES\/icons.sketch",
+		"oF": 0
+		},
+	"\/upup.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/upup.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/upup.sw.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/upup.sw.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		}
 	},
 "hooks": [

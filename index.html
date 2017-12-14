@@ -5,15 +5,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>PWA PWA</title>
-  <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
   <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#ffee00">
+  <meta name="theme-color" content="#ffee00">
 </head>
 <body>
   <div class="pure-g">
-    <div class="pure-u-1">
-      <h1><span>PWA</span> PWA</h1></div>
-    <div class="pure-u-1">
-      <img src="./assets/img/cat.jpg" alt="My lovely cat"></div>
+    <div class="pure-u-1 heros-zone">
+      <h2>Miaouw, paw paw.</h2>
+    </div>
+    <div class="pure-u-1"><h1><span>PWA</span> PWA</h1></div>
+
   </div>
+
+  <script src="/upup.min.js"></script>
+  <script>
+  UpUp.start({
+    'content-url': 'offline.html',
+    'assets': ['/assets/img/cat-o.jpg', '/assets/css/style.css']
+  });
+  </script>
 </body>
 </html>
