@@ -1,7 +1,7 @@
 {
     "name": "PWA",
     "short_name" : "PWA",
-    "start_url": "/?utm_source=homescreen",
+    "start_url": "index.html?utm_source=homescreen",
     "scope" : "/",
     "icons": [
         {
