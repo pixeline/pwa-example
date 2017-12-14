@@ -14,6 +14,16 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', endColorstr='#23538a',GradientType=1 );
   /* IE6-9 fallback on horizontal gradient */ }
 
+h1 {
+  font-size: 545px;
+  font-family: serif;
+  color: #ff8da1;
+  letter-spacing: -100px;
+  padding: 0;
+  line-height: 0.1; }
+  h1 span {
+    color: white; }
+
 img {
   display: block;
   max-width: 100%;
