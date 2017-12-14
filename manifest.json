@@ -1,6 +1,8 @@
 {
     "name": "PWA",
     "short_name" : "PWA",
+    "start_url": "/?utm_source=homescreen",
+    "scope" : "/",
     "icons": [
         {
             "src": "./android-chrome-192x192.png",
